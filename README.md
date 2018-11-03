@@ -10,4 +10,4 @@ The output files are formatted in UTF-16.
 TODO:
 
 Add support for compressing more pixels into single character cells. This will likely look awful, but it would be nice
-to add nonetheless. This would require repeating the arduous task of mapping ~250 binary inputs to Unicode outputs.
+to add nonetheless - this would require repeating the arduous task of mapping ~250 binary inputs to Unicode outputs.
